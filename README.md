@@ -31,12 +31,12 @@ This project is to build and deploy JS React Portfolio
 Number and name of feature: 1. Clone Template and Deploy
 Estimate of time needed to complete: 90 minutes
 Start time: 1:00pm
-Finish time: pm
-Actual time needed to complete:
+Finish time: 1:59pm
+Actual time needed to complete: 59 minutes
 
-Number and name of feature:
-Estimate of time needed to complete:  minutes
-Start time: pm
+Number and name of feature: 2. About Me Page
+Estimate of time needed to complete: 90 minutes
+Start time: 2:00pm
 Finish time: pm
 Actual time needed to complete:
 
