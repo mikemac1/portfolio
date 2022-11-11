@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Mike McCarty",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Looking to be an integral part of a software development team and be a part of reaching & exceeding the organization's mission and goals." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mikemac1",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/mike-mccarty1/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
