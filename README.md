@@ -37,16 +37,16 @@ Actual time needed to complete: 59 minutes
 Number and name of feature: 2. About Me Page
 Estimate of time needed to complete: 90 minutes
 Start time: 2:00pm
-Finish time: pm
-Actual time needed to complete:
+Finish time: 3:12pm
+Actual time needed to complete: 72 minutes
 
-Number and name of feature:
-Estimate of time needed to complete:  minutes
-Start time: pm
-Finish time: pm
-Actual time needed to complete:
+Number and name of feature: 3. Projects Section
+Estimate of time needed to complete: 2 hours
+Start time: 12:21pm
+Finish time: 1:53 pm
+Actual time needed to complete: 1 hour 32 minutes
 
-Number and name of feature:
+Number and name of feature: 
 Estimate of time needed to complete:  minutes
 Start time: pm
 Finish time: pm
