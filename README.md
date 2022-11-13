@@ -6,7 +6,7 @@ This project is to build and deploy JS React Portfolio
 
 ### Problem Domain
 
-7 November - Using starter template for today contains a complete React + Bootstrap site with example pages, icons, styles, and a themed layouts. Your job is to customize this code by following the specifications in the Trello board.
+7/8 November - Using starter template for today contains a complete React + Bootstrap site with example pages, icons, styles, and a themed layouts. Your job is to customize this code by following the specifications in the Trello board.
 
 ### Instructions
 
@@ -21,6 +21,10 @@ This project is to build and deploy JS React Portfolio
 - [Getting Started](https://reactjs.org/docs/getting-started.html)
 
 - [React Bootstrap](https://react-bootstrap.github.io/)
+
+- [Iconify](https://iconify.design/)
+
+- [Adobe Color Picker](https://color.adobe.com/explore)
 
 ### URL To Live Site
 
@@ -53,7 +57,7 @@ Finish time: 2:32pm
 Actual time needed to complete: 31 minutes
 
 Number and name of feature: 5. Personalize
-Estimate of time needed to complete:  minutes
-Start time: pm
-Finish time: pm
-Actual time needed to complete:
+Estimate of time needed to complete:  2 hours
+Start time: 2:40pm
+Finish time: 4:00pm
+Actual time needed to complete: 1 hour 20 minutes
