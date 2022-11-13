@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
+      "description_header": "Hola",
       "description": "👋 Soy Mike McCarty. Un tecnólogo experimentado que ha tenido un impacto inmediato en todas las organizaciones para las que he trabajado en los sectores público y privado. Con una Maestría en Gestión de TI especializada en Seguridad Cibernética y una Licenciatura en Educación, he tenido mucho éxito en la discusión de temas técnicos para audiencias no técnicas.",
       "section_name": {
         "about": "Sobre mí",
@@ -87,33 +87,33 @@
       {
         "company": "Code Fellows",
         "title": "Desarrollador",
-        "years": "10.2019 - obecnie",
+        "years": "10.2022 - presente",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "HTML 5",
+        "CSS",
+        "Django DB",
+        "Markdown"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Autoestudio",
+        "title": "Aspirante a desarrollador de software",
+        "years": "01.2020 - 10.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+        "JavaScript",
+        "Bootstrap",
+        "HTML 5",
+        "CSS"
         ]
       }
     ]
